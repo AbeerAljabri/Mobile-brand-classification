@@ -6,7 +6,7 @@ This project uses web scraping to acquire smartphone data. Each row represents a
 Following visualization and cleaning, four models (LogisticRegression, SVC, DecisionTreeClassifier, and RandomForestClassifier) were used to categorize the smartphones based on their brands. Then we assess them to choose the best model.
 
 ### Dataset source
-TechSpecs (https://developer.techspecs.io/)
+[TechSpecs] (https://developer.techspecs.io/)
 
 ### Built with
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
